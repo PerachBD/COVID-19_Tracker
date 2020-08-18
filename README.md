@@ -11,5 +11,5 @@ React
 run `npm i && npm start`
 
 ### snapshots: ###
-![snapshot](snapshots\Global.PNG)
-![snapshot](snapshots\Israel.PNG)
+![snapshot](napshots/Global.PNG)
+![snapshot](napshots/Israel.PNG)
