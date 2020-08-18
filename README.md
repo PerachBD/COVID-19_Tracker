@@ -10,6 +10,6 @@ React
 ### Setup: ###
 run `npm i && npm start`
 
-### snapshots: ###
-![snapshot](napshots/Global.PNG)
-![snapshot](napshots/Israel.PNG)
+### Snapshots: ###
+![snapshot](snapshots/Global.PNG)
+![snapshot](snapshots/Israel.PNG)
